@@ -9,9 +9,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>joury & zainah</p>
-        <img src={joury} alt="Italian Trulli"/>
+        <img src={joury} alt="Italian Trulli" width="500" height="333"/>
         <p>jawad</p>
-        <img src={jawad} alt="Italian Trulli"/>
+        <img src={jawad} alt="Italian Trulli" width="500" height="333"/>
 
         <a
           className="App-link"
