@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
-import './App.css';
+import joury from './joury-zainah.jpg';
+import jawad from './jawad.jpg';
 
 function App() {
   return (
@@ -8,9 +9,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>joury & zainah</p>
-        <img src="./joury-zainah.jpg" alt="Italian Trulli"/>
+        <img src={joury} alt="Italian Trulli"/>
         <p>jawad</p>
-        <img src="./jawad.jpg" alt="Italian Trulli"/>
+        <img src={jawad} alt="Italian Trulli"/>
 
         <a
           className="App-link"
